@@ -30,6 +30,7 @@ public class OperadorTernario {
         int precio = 100;
         double precioFinal = (precio > 50) ? precio * 0.9 : precio;
         System.out.println("Precio Final: $" + precioFinal);
+        System.out.println("Prueba de mensaje");
     }
     
 }
